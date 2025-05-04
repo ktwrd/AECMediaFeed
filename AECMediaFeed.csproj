@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentFTP" Version="52.1.0" />
+    <PackageReference Include="FluentFTP.GnuTLS" Version="1.0.37" />
+    <PackageReference Include="NeoSmart.PrettySize" Version="3.1.1" />
+    <PackageReference Include="ObjectListView.Repack.NET6Plus" Version="2.9.5" />
+  </ItemGroup>
+
+</Project>
