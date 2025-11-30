@@ -12,9 +12,9 @@ Hastily put together on the night of the 2025 Australian Federal Election.
 To regenerate the C# Classes (from the XSD files);
 - Download the latest archive in the `/*/Standard/Preload/` folder.
 - Extract the downloaded zip file.
-- Copy the contents of the `schema` folder to the `Schema` folder in the repo.
+- Copy the contents of the `schema` folder to the folder: `./Source/AECMediaFeed/Schema`.
 - Open up the Visual Studio 2022 Command Prompt
-- Run `make.bat` inside of the `Schema` folder.
+- Run `make.bat` inside of the folder: `./Source/AECMediaFeed/Schema`.
 - Recompile the project.
 
 ~~You can also test the preload data by clicking on "File" then "Open Preload Data" (select the zip file that was downloaded).~~

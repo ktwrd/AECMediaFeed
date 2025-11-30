@@ -1,4 +1,4 @@
-﻿namespace AECMediaFeed
+﻿namespace AECMediaFeed.WinForms
 {
     partial class MainForm
     {

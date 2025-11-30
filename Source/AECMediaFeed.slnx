@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="AECMediaFeed/AECMediaFeed.csproj" />
+  <Project Path="AECMediaFeed.WinForms/AECMediaFeed.WinForms.csproj" />
+</Solution>

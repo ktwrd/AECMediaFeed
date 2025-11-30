@@ -14,7 +14,7 @@
    limitations under the License.
  */
 
-namespace AECMediaFeed;
+namespace AECMediaFeed.WinForms;
 
 internal static class Program
 {

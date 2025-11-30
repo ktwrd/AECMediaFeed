@@ -30,7 +30,7 @@ using BrightIdeasSoftware;
 using System.ComponentModel;
 using AECMediaFeed.Schema.AEC_Results;
 
-namespace AECMediaFeed;
+namespace AECMediaFeed.WinForms;
 
 public partial class MainForm : Form
 {
