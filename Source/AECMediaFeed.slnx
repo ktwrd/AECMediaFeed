@@ -2,6 +2,12 @@
   <Configurations>
     <Platform Name="x64" />
   </Configurations>
-  <Project Path="AECMediaFeed/AECMediaFeed.csproj" />
+  <Folder Name="/Solution Items/">
+    <File Path="../.gitignore" />
+    <File Path="../LICENSE.txt" />
+    <File Path="../media-feed-user-guide-v4-4.pdf" />
+    <File Path="../README.md" />
+  </Folder>
   <Project Path="AECMediaFeed.WinForms/AECMediaFeed.WinForms.csproj" />
+  <Project Path="AECMediaFeed/AECMediaFeed.csproj" />
 </Solution>

@@ -7,8 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="CSharpFunctionalExtensions" Version="3.6.0" />
     <PackageReference Include="FluentFTP" Version="52.1.0" />
     <PackageReference Include="FluentFTP.GnuTLS" Version="1.0.37" />
+    <PackageReference Include="NLog" Version="6.0.6" />
   </ItemGroup>
 
 </Project>
